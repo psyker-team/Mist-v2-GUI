@@ -1,11 +1,11 @@
 ﻿using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace Mist_GUI_Booster
+namespace Mist_GUI_Booter
 {
-	partial class Form_Mist_GUI_Booster
+	partial class Form_Mist_GUI_Booter
 	{
-		internal Form_Mist_GUI_Booster Init(string[] args)
+		internal Form_Mist_GUI_Booter Init(string[] args)
 		{
 			envManager.OnLoad();
 			Log("Program started.");

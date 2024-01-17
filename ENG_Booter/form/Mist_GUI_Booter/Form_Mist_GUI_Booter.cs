@@ -1,15 +1,15 @@
-﻿namespace Mist_GUI_Booster
+﻿namespace Mist_GUI_Booter
 {
-    public partial class Form_Mist_GUI_Booster : Form
+    public partial class Form_Mist_GUI_Booter : Form
     {
-        public Form_Mist_GUI_Booster()
+        public Form_Mist_GUI_Booter()
         {
             InitializeComponent();
         }
 
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_Mist_GUI_Booster));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_Mist_GUI_Booter));
             imageButtonRunMist = new ImageButton();
             imageButtonKnowMore = new ImageButton();
             SuspendLayout();
@@ -36,7 +36,7 @@
             imageButtonKnowMore.Name = "imageButtonKnowMore";
             imageButtonKnowMore.Click += ImageButtonKnowMore_Click;
             // 
-            // Form_Mist_GUI_Booster
+            // Form_Mist_GUI_Booter
             // 
             AutoScaleMode = AutoScaleMode.None;
             BackColor = Color.White;
@@ -47,7 +47,7 @@
             ForeColor = Color.Black;
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
-            Name = "Form_Mist_GUI_Booster";
+            Name = "Form_Mist_GUI_Booter";
             ResumeLayout(false);
         }
 

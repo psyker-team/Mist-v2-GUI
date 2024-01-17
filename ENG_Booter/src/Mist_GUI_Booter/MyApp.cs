@@ -1,4 +1,4 @@
-﻿namespace Mist_GUI_Booster
+﻿namespace Mist_GUI_Booter
 {
 	internal static class MyApp
 	{
@@ -7,7 +7,7 @@
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new Form_Mist_GUI_Booster().Init(args));
+			Application.Run(new Form_Mist_GUI_Booter().Init(args));
 		}
 	}
 }

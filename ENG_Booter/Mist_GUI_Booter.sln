@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mist_GUI_Booster", "Mist_GUI_Booster.csproj", "{6922C950-C1EE-4A39-86AF-1FEB3417EB5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mist_GUI_Booter", "Mist_GUI_Booter.csproj", "{6922C950-C1EE-4A39-86AF-1FEB3417EB5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

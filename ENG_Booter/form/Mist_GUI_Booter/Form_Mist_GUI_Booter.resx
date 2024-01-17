@@ -136,7 +136,7 @@
     <value>imageButtonRunMist</value>
   </data>
   <data name="&gt;&gt;imageButtonRunMist.Type" xml:space="preserve">
-    <value>Mist_GUI_Booster.ImageButton, Mist_GUI_Booster, Culture=neutral, PublicKeyToken=null</value>
+    <value>Mist_GUI_Booter.ImageButton, Mist_GUI_Booter, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;imageButtonRunMist.Parent" xml:space="preserve">
     <value>$this</value>
@@ -160,7 +160,7 @@
     <value>imageButtonKnowMore</value>
   </data>
   <data name="&gt;&gt;imageButtonKnowMore.Type" xml:space="preserve">
-    <value>Mist_GUI_Booster.ImageButton, Mist_GUI_Booster, Culture=neutral, PublicKeyToken=null</value>
+    <value>Mist_GUI_Booter.ImageButton, Mist_GUI_Booter, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;imageButtonKnowMore.Parent" xml:space="preserve">
     <value>$this</value>
@@ -440,10 +440,10 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Mist_GUI_Booster</value>
+    <value>Mist_GUI_Booter</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form_Mist_GUI_Booster</value>
+    <value>Form_Mist_GUI_Booter</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>

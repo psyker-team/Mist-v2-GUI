@@ -1,6 +1,6 @@
-﻿namespace Mist_GUI_Booster
+﻿namespace Mist_GUI_Booter
 {
-	partial class Form_Mist_GUI_Booster
+	partial class Form_Mist_GUI_Booter
 	{
 		internal static string officialWebsite { get; } = @"https://mist-project.github.io/index_en";
 

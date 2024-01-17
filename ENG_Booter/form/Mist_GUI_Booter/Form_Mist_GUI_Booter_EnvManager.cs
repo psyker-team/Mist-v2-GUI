@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics;
 using System.IO.Compression;
 
-namespace Mist_GUI_Booster
+namespace Mist_GUI_Booter
 {
-	partial class Form_Mist_GUI_Booster
+	partial class Form_Mist_GUI_Booter
 	{
 		partial class EnvManager
 		{
@@ -116,7 +116,7 @@ namespace Mist_GUI_Booster
 				WriteFileBytes(scriptDir, "run_mist.bat", Properties.Resources.run_mist);
 			}
 
-			internal void RunMist(Form_Mist_GUI_Booster form_Mist_GUI)
+			internal void RunMist(Form_Mist_GUI_Booter form_Mist_GUI)
 			{
 				Thread thread = new Thread(() =>
 				{

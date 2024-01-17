@@ -1,4 +1,4 @@
-﻿namespace Mist_GUI_Booster
+﻿namespace Mist_GUI_Booter
 {
     partial class ImageButton
     {
